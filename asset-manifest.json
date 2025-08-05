@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BikshalaSandeep/Pincode-Details-react/static/css/main.014d69a2.css",
+    "main.js": "/BikshalaSandeep/Pincode-Details-react/static/js/main.563a4646.js",
+    "index.html": "/BikshalaSandeep/Pincode-Details-react/index.html",
+    "main.014d69a2.css.map": "/BikshalaSandeep/Pincode-Details-react/static/css/main.014d69a2.css.map",
+    "main.563a4646.js.map": "/BikshalaSandeep/Pincode-Details-react/static/js/main.563a4646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.014d69a2.css",
+    "static/js/main.563a4646.js"
+  ]
+}
